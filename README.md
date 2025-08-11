@@ -8,7 +8,7 @@ I create clean, responsive designs that are user-friendly, accessible, and effic
 
 ## 📚 Skills in Progress
 - 🚀 Currently learning **Data Structures and Algorithms** with Python  
-- 📘 Building strong knowledge in: Computer Networks, Operating Systems, Database Management Systems  
+- 📘 Building strong knowledge in Computer Networks, Operating Systems, Database Management Systems  
 - 🛠️ Working on projects using **HTML**, **CSS**, and **JavaScript**  
 
 ---
