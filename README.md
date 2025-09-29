@@ -18,7 +18,8 @@ I create clean, responsive designs that are user-friendly, accessible, and effic
 - HTML  
 - CSS  
 - JavaScript  
-- C  
+- React
+- C
 
 ---
 
