@@ -18,13 +18,13 @@ I enjoy creating **clean, responsive, and user-friendly designs**, while also wo
 ---
 
 ## 📜 Certifications  
-**IBM Web Development Fundamentals – IBM, September 2025**  
+- **IBM Web Development Fundamentals – IBM, September 2025**  
 Learned HTML, CSS, and JavaScript basics
 
-**JavaScript Algorithms and Data Structures Certification – FreeCodeCamp, August 2025**  
+- **JavaScript Algorithms and Data Structures Certification – FreeCodeCamp, August 2025**  
 Projects built: Palindrome Checker, Roman Numeral Converter, Telephone Number Validator, Cash Register, RPG Creator Search App  
 
-**JavaScript Certification – Infosys Springboard, August 2025**  
+- **JavaScript Certification – Infosys Springboard, August 2025**  
 Completed advanced JavaScript topics and projects.
 
 - **Responsive Web Design Developer** – FreeCodeCamp, *July 2025*  
