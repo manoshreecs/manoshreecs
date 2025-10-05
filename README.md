@@ -31,5 +31,9 @@ Completed advanced JavaScript topics and projects.
   **Projects built:** Survey Form, Tribute Page, Technical Documentation Page, Product Landing Page, Personal Portfolio Website  
 
 ---
+## 📫 Connect with Me
+
+- 📧 Email: [cmanoshree@gmail.com](mailto:cmanoshree@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/manoshreec](https://www.linkedin.com/in/manoshreec)
 
 🌟 *"Strive for progress, not perfection."*
