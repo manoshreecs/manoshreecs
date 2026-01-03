@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Manoshree C
 
-💻 **CSE Student | MERN Stack & Software Developer**
+💻 **CSE Student | Full-Stack Developer (MERN)**
 
-I am a **final-year Computer Science and Engineering student** at Anna University (University College of Engineering, Panruti – Cuddalore) with a strong focus on **software development and full-stack web development**. I enjoy building **scalable and responsive web applications**, strengthening my **programming fundamentals**, and solving real-world problems through **projects, hands-on experience, and continuous learning**.
+I am a **final-year Computer Science and Engineering student** at Anna University with a strong focus on **software development and full-stack web development**. I enjoy building **scalable and responsive web applications**, strengthening my **programming fundamentals**, and solving real-world problems through **projects, hands-on experience, and continuous learning**.
 
 ---
 
