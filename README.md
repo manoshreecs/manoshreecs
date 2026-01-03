@@ -14,10 +14,11 @@ I am a **final-year Computer Science and Engineering student** at Anna Universit
 **Database:** MongoDB, SQL  
 **APIs:** REST APIs 
 
-### 🧠 Coding Skills
+### 🧠 Languages Known
 
-**Languages:** Python, C  
-**DSA:** Practicing Data Structures & Algorithms   
+- Python  
+- C  
+- JavaScript
 
 ### 🛠 Tools
 
