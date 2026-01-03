@@ -6,19 +6,18 @@ I am a **final-year Computer Science and Engineering student** at Anna Universit
 
 ---
 
-## 💻 Skills & Tools
 
 ### 🌐 Web Development
 
-**Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, React.js  
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React.js  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, SQL  
-**APIs:** REST APIs (basic understanding)  
+**APIs:** REST APIs 
 
-### 🧠 Development Skills
+### 🧠 Coding Skills
 
 **Languages:** Python, C  
-**DSA:** Practicing Data Structures & Algorithms using Python  
+**DSA:** Practicing Data Structures & Algorithms   
 
 ### 🛠 Tools
 
