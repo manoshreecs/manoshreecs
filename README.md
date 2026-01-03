@@ -1,39 +1,55 @@
 # Hi there 👋, I'm Manoshree C
 
-## 💻 Aspiring Full Stack Developer  
+💻 **CSE Student | MERN Stack & Software Developer**
 
-I am an engineering student at **Anna University** passionate about building complete web applications from front-end to back-end.  
-I enjoy creating **clean, responsive, and user-friendly designs**, while also working with server-side logic, databases, and APIs to build **full-featured, efficient web applications**.
-
----
-
-## 🛠️ Languages 
-- Python  
-- HTML  
-- CSS  
-- JavaScript  
-- React
-- C
+I am a **final-year Computer Science and Engineering student** at Anna University (University College of Engineering, Panruti – Cuddalore) with a strong focus on **software development and full-stack web development**. I enjoy building **scalable and responsive web applications**, strengthening my **programming fundamentals**, and solving real-world problems through **projects, hands-on experience, and continuous learning**.
 
 ---
 
-## 📜 Certifications  
-- **IBM Web Development Fundamentals – IBM, September 2025**  
-Learned HTML, CSS, and JavaScript basics
+## 💻 Skills & Tools
 
-- **JavaScript Algorithms and Data Structures Certification – FreeCodeCamp, August 2025**  
-Projects built: Palindrome Checker, Roman Numeral Converter, Telephone Number Validator, Cash Register, RPG Creator Search App  
+### 🌐 Web Development
 
-- **JavaScript Certification – Infosys Springboard, August 2025**  
-Completed advanced JavaScript topics and projects.
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, React.js  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, SQL  
+**APIs:** REST APIs (basic understanding)  
 
-- **Responsive Web Design Developer** – FreeCodeCamp, *July 2025*  
-  **Projects built:** Survey Form, Tribute Page, Technical Documentation Page, Product Landing Page, Personal Portfolio Website  
+### 🧠 Development Skills
+
+**Languages:** Python, C  
+**DSA:** Practicing Data Structures & Algorithms using Python  
+
+### 🛠 Tools
+
+- Git  
+- VS Code  
+- Postman  
+- Thunder Client  
 
 ---
+
+## 📜 Certifications
+
+- **IBM Web Development Fundamentals** – IBM, September 2025  
+- **JavaScript Algorithms and Data Structures Certification** – FreeCodeCamp, August 2025  
+- **JavaScript Certification** – Infosys Springboard, August 2025  
+- **Responsive Web Design Developer** – FreeCodeCamp, July 2025  
+
+---
+
+## 💼 Internship
+
+- **Web Development Intern** – NextGen Solutions, July 2025  
+  Worked on **developing responsive web applications** using HTML, CSS, JavaScript, and Bootstrap. Assisted in **frontend and basic backend development**, collaborated with the development team, and gained hands-on experience in **building user-friendly web interfaces and integrating APIs**.
+
+---
+
 ## 📫 Connect with Me
 
-- 📧 Email: [cmanoshree@gmail.com](mailto:cmanoshree@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/manoshreec](https://www.linkedin.com/in/manoshreec)
+📧 Email: cmanoshree@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/manoshreec](https://linkedin.com/in/manoshreec)  
+
+---
 
 🌟 *"Strive for progress, not perfection."*
