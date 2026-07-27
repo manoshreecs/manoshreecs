@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Manoshree C
 
-💻 **CSE Student | Full-Stack Developer (MERN)**
+💻 B.E. Computer Science Engineering Graduate | MERN Stack Developer
 
-I am a **final-year Computer Science and Engineering student** at Anna University with a strong focus on **software development and full-stack web development**. I enjoy building **scalable and responsive web applications**, strengthening my **programming fundamentals**, and solving real-world problems through **projects, hands-on experience, and continuous learning**.
+I am a **Computer Science and Engineering graduate (2026)  with Honours and a CGPA of 8.44** at Anna University with a strong focus on **software development and full-stack web development**. I enjoy building **scalable and responsive web applications**, strengthening my **programming fundamentals**, and solving real-world problems through **projects, hands-on experience, and continuous learning**.
 
 ---
 
