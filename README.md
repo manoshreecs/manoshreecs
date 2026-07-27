@@ -2,8 +2,7 @@
 
 💻 B.E. Computer Science Engineering Graduate | MERN Stack Developer
 
-I am a **Computer Science and Engineering graduate (2026)  with Honours and a CGPA of 8.44** at Anna University with a strong focus on **software development and full-stack web development**. I enjoy building **scalable and responsive web applications**, strengthening my **programming fundamentals**, and solving real-world problems through **projects, hands-on experience, and continuous learning**.
-
+I am a Computer Science and Engineering graduate (2026) with Honours and a CGPA of 8.44 from Anna University, with a strong foundation in software development and full-stack web development. I specialize in building scalable, responsive, and user-focused web applications while continuously enhancing my technical skills, programming fundamentals, and problem-solving abilities through hands-on projects, practical experience, and continuous learning
 ---
 
 
