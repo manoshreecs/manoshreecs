@@ -1,30 +1,41 @@
 # Hi there 👋, I'm Manoshree C
 
-💻 B.E. Computer Science Engineering Graduate | MERN Stack Developer
+💻 **B.E. Computer Science Engineering Graduate | MERN Stack Developer**
 
-I am a Computer Science and Engineering graduate (2026) with Honours and a CGPA of 8.44 from Anna University, with a strong foundation in software development and full-stack web development. I specialize in building scalable, responsive, and user-focused web applications while continuously enhancing my technical skills, programming fundamentals, and problem-solving abilities through hands-on projects, practical experience, and continuous learning
+I am a **Computer Science and Engineering graduate (2026) with Honours and a CGPA of 8.44** from Anna University, with a strong foundation in **software development and full-stack web development**. I specialize in building **scalable, responsive, and user-focused web applications** while continuously enhancing my **technical skills, programming fundamentals, and problem-solving abilities** through hands-on projects, practical experience, and continuous learning.
+
 ---
 
+## 🌐 Web Development
 
-### 🌐 Web Development
+**Frontend:**  
+HTML5, CSS3, JavaScript, Bootstrap, React.js  
 
-**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React.js  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, SQL  
-**APIs:** REST APIs 
+**Backend:**  
+Node.js, Express.js  
 
-### 🧠 Languages Known
+**Database:**  
+MongoDB, SQL  
 
-- Python  
-- C  
+**APIs:**  
+REST APIs  
+
+---
+
+## 🧠 Programming Languages
+
+- Python
+- C
 - JavaScript
 
-### 🛠 Tools
+---
 
-- Git  
-- VS Code  
-- Postman  
-- Thunder Client  
+## 🛠 Tools & Technologies
+
+- Git & GitHub
+- VS Code
+- Postman
+- Thunder Client
 
 ---
 
@@ -37,17 +48,39 @@ I am a Computer Science and Engineering graduate (2026) with Honours and a CGPA 
 
 ---
 
-## 💼 Internship
+## 💼 Internship Experience
 
-- **Web Development Intern** – NextGen Solutions, July 2025  
-  Worked on **developing responsive web applications** using HTML, CSS, JavaScript, and Bootstrap. Assisted in **frontend and basic backend development**, collaborated with the development team, and gained hands-on experience in **building user-friendly web interfaces and integrating APIs**.
+### Web Development Intern – NextGen Solutions  
+**July 2025**
+
+- Developed responsive web applications using **HTML, CSS, JavaScript, and Bootstrap**.
+- Contributed to **frontend development, basic backend implementation, and API integration**.
+- Collaborated with the development team to build **efficient and user-friendly web solutions**.
+- Gained practical experience in modern web development practices and real-world application development.
 
 ---
 
-## 📫 Connect with Me
+## 🚀 What I Focus On
 
-📧 Email: cmanoshree@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/manoshreec](https://linkedin.com/in/manoshreec)  
+- Building scalable and responsive web applications
+- Strengthening full-stack development skills
+- Improving problem-solving and programming fundamentals
+- Learning and implementing modern technologies
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** cmanoshree@gmail.com  
+
+🔗 **LinkedIn:**  
+https://linkedin.com/in/manoshreec
+
+🔗 **GitHub:**  
+https://github.com/manoshreecs
+
+🌐 **Portfolio:**  
+https://manoshreec.vercel.app
 
 ---
 
