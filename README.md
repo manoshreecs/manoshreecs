@@ -53,11 +53,10 @@ REST APIs
 ### Web Development Intern – NextGen Solutions  
 **July 2025**
 
-- Developed responsive web applications using **HTML, CSS, JavaScript, and Bootstrap**.
-- Contributed to **frontend development, basic backend implementation, and API integration**.
-- Collaborated with the development team to build **efficient and user-friendly web solutions**.
-- Gained practical experience in modern web development practices and real-world application development.
-
+- Developed and enhanced **responsive web applications** by creating user-friendly and interactive interfaces.
+- Worked on **frontend development, UI improvements, and application functionality** to deliver seamless user experiences.
+- Contributed to **server-side development, API integration, and application workflow improvements**.
+- Gained hands-on experience in **full-stack web development practices, debugging, and building real-world applications**.
 ---
 
 ## 🚀 What I Focus On
